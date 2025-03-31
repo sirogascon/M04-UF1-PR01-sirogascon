@@ -5,9 +5,17 @@ Práctica 1 de Lenguajes de marcas y sistemas de gestión de información
 # Escrito con Bolígrafo
 
 ## Introducción
-El proyecto **Escrito con Bolígrafo** surge de la necesidad de explorar y documentar la importancia histórica del bolígrafo, tanto en su evolución como en su impacto en la sociedad. Mi objetivo principal fue crear un portal interactivo donde cualquier persona interesada pudiera descubrir la historia, curiosidades e innovaciones relacionadas con este instrumento de escritura.
+Escrito con Bolígrafo es un sitio web informativo y visualmente atractivo desarrollado en HTML5 y CSS3. Su objetivo principal es educar y entretener a los visitantes sobre la historia, evolución y relevancia del bolígrafo en distintos acontecimientos históricos.
+El proyecto busca ser un recurso educativo y de referencia para historiadores, estudiantes y entusiastas de la escritura. Al presentar la información de manera gráfica e interactiva, el sitio web aspira a capturar el interés del público y fomentar el conocimiento sobre la importancia del bolígrafo en la historia y la sociedad actual.
 
 Para ello, he desarrollado una página web estructurada, informativa y visualmente atractiva, que combina contenido educativo con una experiencia de usuario fluida. A continuación, detallo el proceso que seguí desde la concepción de la idea hasta la implementación final.
+
+A lo largo del trabajo he usado las tecnologías de:
+- HTML5 para la estructura del contenido.
+
+- CSS3 para estilizar y mejorar la experiencia visual.
+
+- JavaScript para interactividad y validaciones en formularios.
 
 ---
 
